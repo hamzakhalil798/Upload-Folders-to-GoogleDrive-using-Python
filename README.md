@@ -1,7 +1,6 @@
 # Upload-Folders-to-GoogleDrive-using-Python
 A jupyter Notebook to upload Folder with subfolders to Google Drive using Pydrive Library
 
-inspired from   https://gist.github.com/kiurtis/7415bc29cd2258635f98e55bbf17d81b
 
 New Features :
 
@@ -13,3 +12,9 @@ New Features :
 
 
 Will add complete Tutorial within few days
+
+Reference :
+
+Author : Amiel Sitruk
+
+https://gist.github.com/kiurtis/7415bc29cd2258635f98e55bbf17d81b
