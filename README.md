@@ -11,7 +11,10 @@ New Features :
 -Added Progress Bar
 
 
-Will add complete Tutorial within few days
+I've made a full tutorial of this notebook , kindly follow my article in case of any confusions
+
+https://medium.com/@khalilhamza798/upload-folder-to-google-drive-using-python-with-progress-bar-e0fe68beab85
+
 
 Reference :
 
